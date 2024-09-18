@@ -1,0 +1,23 @@
+# Ignorar arquivos e pastas temporários
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignorar diretórios de compilação
+/build/
+/dist/
+/*.egg-info/
+
+# Ignorar arquivos de configuração de IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignorar arquivos de ambiente virtual
+.venv/
+env/
+venv/
+
+# Ignorar arquivos de configuração local
+*.env
